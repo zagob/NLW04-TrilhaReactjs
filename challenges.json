@@ -1,0 +1,67 @@
+[
+    {
+        "type": "body",
+        "description": "desafio 1",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "desafio 2",
+        "amount": 200
+    },
+    {
+        "type": "body",
+        "description": "desafio 3",
+        "amount": 320
+    },
+    {
+        "type": "body",
+        "description": "desafio 4",
+        "amount": 400
+    },
+    {
+        "type": "body",
+        "description": "desafio 5",
+        "amount": 351
+    },
+    {
+        "type": "body",
+        "description": "desafio 6",
+        "amount": 500
+    },
+    {
+        "type": "body",
+        "description": "desafio 7",
+        "amount": 682
+    },
+    {
+        "type": "body",
+        "description": "desafio 8",
+        "amount": 800
+    },
+    {
+        "type": "body",
+        "description": "desafio 9",
+        "amount": 900
+    },
+    {
+        "type": "body",
+        "description": "desafio 10",
+        "amount": 1000
+    },
+    {
+        "type": "body",
+        "description": "desafio 11",
+        "amount": 1100
+    },
+    {
+        "type": "body",
+        "description": "desafio 12",
+        "amount": 900
+    },
+    {
+        "type": "body",
+        "description": "desafio 13",
+        "amount": 700
+    }
+]
